@@ -1,5 +1,5 @@
-# note-taker
-  ![Github licence](http://img.shields.io/badge/license-MIT License-blue.svg)
+# Note-Taker
+ ![Github license](http://img.shields.io/badge/license-MIT-blue.svg)
 
 
 ## Description
