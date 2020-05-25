@@ -17,7 +17,7 @@ Download NPM by going to the project folder in terminal then running 'npm init -
 
 ## Usage
 
-To run type 'npm start' into terminal while in the project folder then go tohttp://localhost:3000/ in your browser.
+To run type 'npm start' into terminal while in the project folder then go tohttp://localhost:3001/ in your browser.
 
 ## License
 
