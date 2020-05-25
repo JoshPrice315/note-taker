@@ -12,7 +12,7 @@
 * [Contact Me](#contact-me)
 
 ## Installation
-(A live version of this program is provided at https://nameless-brushlands-18109.herokuapp.com/)
+(A live version of this program is provided at https://nameless-brushlands-18109.herokuapp.com/)<br>
 Download NPM by going to the project folder in terminal then running 'npm init -y' followed by 'npm i express'
 
 ## Usage
